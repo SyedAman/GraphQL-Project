@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SyedAman/GraphQL-Project#readme",
   "dependencies": {
     "babel": "^6.5.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "graphql": "^0.8.2"
   }
 }
