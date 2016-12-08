@@ -1,2 +1,3 @@
 // import GraphQL
-var graphql = require('graphql');
+var { graphql, buildScheme } = require('graphql');
+
